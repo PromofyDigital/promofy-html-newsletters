@@ -1,0 +1,4 @@
+interface:
+  display_name: "Promofy HTML Newsletters"
+  short_description: "Build and review Promofy newsletters for Brevo"
+  default_prompt: "Use $promofy-html-newsletters to build a Brevo HTML newsletter from the supplied campaign brief and the closest Promofy template."
