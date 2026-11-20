@@ -1,0 +1,12 @@
+SBC one-week-away email
+
+1. Upload team-attendance.png to your email platform image library.
+2. In promofy-sbc-short-event-email.html, replace {{ TEAM_ATTENDANCE_IMAGE_URL }} with the uploaded public HTTPS image URL. This is an editing placeholder, not a configured email-platform variable.
+3. Import the HTML and test-send. Keep mirror, update_profile and unsubscribe variables intact.
+
+The preview HTML uses the included image locally. Keep both files in the same folder to preview it. Use the email HTML with the hosted image URL for sending.
+
+The three personal booking links are the existing HubSpot SBC links for Irakli, Vakho and Negin, with email tracking. Nini appears in the supplied artwork and copy; a personal booking link was not available, so no link has been invented.
+
+Subject: One week to go. Meet Promofy at S18.
+Preheader: Lisbon, 29 September–1 October. Meet the team, explore Promofy live and book your SBC meeting.
