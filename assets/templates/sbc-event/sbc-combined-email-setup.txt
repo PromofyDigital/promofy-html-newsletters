@@ -1,0 +1,13 @@
+Subject: One week to go. Meet Promofy in Lisbon.
+Preheader: Lisbon, 29 September–1 October. Meet the team, explore Promofy live and book your SBC meeting.
+
+The email combines the countdown hero from the longer version with the supplied team artwork in a dedicated section. It keeps a concise product snapshot and the three existing individual HubSpot meeting links.
+
+Before sending:
+1. Upload team-attendance.png to your email platform’s image library.
+2. Replace {{ TEAM_ATTENDANCE_IMAGE_URL }} in the email HTML with its public HTTPS URL.
+3. Import and test-send. Keep mirror, update_profile and unsubscribe variables unchanged.
+
+The preview HTML uses the included image locally; keep them in the same folder. The countdown hero already uses the hosted image URL from your supplied email.
+
+Nini is included in the team artwork and copy. Only the three verified personal booking links are used; the general SBC button remains available.
