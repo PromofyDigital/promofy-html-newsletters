@@ -1,0 +1,9 @@
+Light-only mobile revision
+
+The brand palette is fixed; no dark-mode media rules or Outlook dark-mode selectors are included. Light-only metadata remains. Some email apps can still apply their own automatic color changes.
+
+All three personal booking buttons use separate HTML table rows, equal widths, 52px standard button height and 12px gaps. All five CTAs are fluid on narrow screens. Desktop CTAs are centered with a 340px maximum width. The 24px shell, borderless cards, content, hosted countdown hero and all booking URLs are preserved.
+
+Before sending, upload team-attendance.png to your email platform image library and replace {{ TEAM_ATTENDANCE_IMAGE_URL }} in the email HTML with its public HTTPS URL. Keep mirror, update_profile and unsubscribe variables unchanged. Preview HTML uses the included local image.
+
+Import as HTML without converting it to a visual-editor layout, which may strip classes and styles. Test-send from your email platform to check its final output. Structural HTML checks passed; live inbox rendering has not been tested.
